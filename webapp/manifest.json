@@ -85,7 +85,7 @@
         "controlAggregation": "pages",
         "controlId": "app",
         "clearControlAggregation": false,
-        "transition": "slide",
+        "transition": "slide", 
         "bypassed": {
           "target": [
             "notFound"
