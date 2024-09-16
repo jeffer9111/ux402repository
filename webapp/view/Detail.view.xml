@@ -2,7 +2,12 @@
  xmlns:mvc="sap.ui.core.mvc"
  xmlns="sap.m">
  <Page id="page" title="Title">
+ <content>
+
+<Page id="Detail" title="Detail">
  <content />
+</Page>
+ </content>
  </Page>
 </mvc:View>
 
