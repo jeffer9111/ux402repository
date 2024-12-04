@@ -1,0 +1,18 @@
+<mvc:View
+    id="detail"
+    controllerName="student00.com.sap.training.ux402.repository.ux402repository.controller.Detail"
+    xmlns:mvc="sap.ui.core.mvc"
+    xmlns="sap.m"
+>
+    <Page
+        id="page1"
+        title="Repository"
+    >
+        <content>
+            <Label
+                id="label1"
+                text="Hello World!!"
+            />
+        </content>
+    </Page>
+</mvc:View>
