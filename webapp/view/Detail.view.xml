@@ -6,7 +6,7 @@
 >
     <Page
         id="page1"
-        title="Repository"
+        title="Detail"
     >
         <content>
             <Label
